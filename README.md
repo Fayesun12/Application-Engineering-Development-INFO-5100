@@ -1,9 +1,3 @@
-# Application-Engineering-Development
-Java swing applications covering Java programming concepts such as arrays, control structures, class definitions, class hierarchies, inheritance, objects, streams, constructors, collections, and GUI components strengthening the understanding of object-based and event-driven programming, with an opportunity to achieve a strong working competency in object-oriented programming using the Java programming language.
-
-
-
-
 ## Aasha Food Management Ecosystem
 Problem Definition and Background
 With the increasing number of deaths due to scarcity of food each year, it is necessary for such audience facing food crisis to have proper food requests addressed to the food distributors and suppliers which would also help them to treat all the extra food to the right set of audience with the proper quality evaluation of food. On an average, there are 9.1 billion deaths per minute over the world and 40.6 million people deaths in the United States due to food crisis. In addition to this, it is essential for them to define a set of parameters for evaluating appropriate food request and distributing service and quality evaluating service accordingly. This parameter should be constructed on one’s concern like ‘how can the request reach from shelter house to distributor?’, ‘How can the enterprise flow can be managed?’ ‘How can the list be available to the distributor with NGO approval?’, ‘How will the Distributor take request from multiple requests and send it to Quality Enterprise?’. In addition to these concerns, the quality enterprise itself should be able to see the list of the items provided by distributor and accordingly approve or provide feedback to incoming request and sent confirmation back to NGO & Distributor.

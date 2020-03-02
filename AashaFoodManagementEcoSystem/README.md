@@ -1,5 +1,5 @@
 
-## Aasha Food Management System
+## Aasha Food Management Ecosystem
 
 ### Problem Definition and Background
 

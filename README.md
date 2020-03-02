@@ -51,4 +51,4 @@ Agency prospective with support for airline management and Flight details manage
 customer details management and seat management.
 
 
-![ObjectModel](ObjectModel.png)
+![ObjectModel](https://github.com/guravtanvi/Application-Engineering-Development/blob/master/ObjectModel.PNG)

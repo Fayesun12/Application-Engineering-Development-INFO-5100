@@ -49,3 +49,6 @@ add/update/cancel flights from airlines in terms of availability of flights from
 ● Our end goal is to implement such Flight-Customer management system from Travel
 Agency prospective with support for airline management and Flight details management,
 customer details management and seat management.
+
+
+![ObjectModel](ObjectModel.png)

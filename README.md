@@ -7,16 +7,16 @@ With the increasing number of deaths due to scarcity of food each year, it is ne
 
 ### Entities
 ● Entreprise
-Shelter
-NGO
-Distributor
-Supplier
-Quality Check
+1. Shelter
+2. NGO
+3. Distributor
+4. Supplier
+5. Quality Check
 
 ● User Role
-SysAdmin
-Shelter Officer
-NGO Officer
-Distributor Officer
-Supplier Officer
-Quality Check Officer
+1. SysAdmin
+2. Shelter Officer
+3. NGO Officer
+4. Distributor Officer
+5. Supplier Officer
+6. Quality Check Officer

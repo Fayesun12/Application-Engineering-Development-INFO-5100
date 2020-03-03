@@ -24,7 +24,7 @@ With the increasing number of deaths due to scarcity of food each year, it is ne
 5. Supplier Officer
 6. Quality Check Officer
 
-![ObjectModel](https://github.com/guravtanvi/Application-Engineering-Development/blob/master/UseCaseAasha.PNG)
+![ObjectModel](https://github.com/guravtanvi/Application-Engineering-Development/blob/master/UseCase.PNG)
 
 
 

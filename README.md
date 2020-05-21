@@ -28,7 +28,7 @@ With the increasing number of deaths due to scarcity of food each year, it is ne
 
 ![Image](UseCase.PNG)
 
-### Steps to regenrate this projects:
+### Steps to regenrate this project
 
  - Download File AashaFoodManagementEcosystem
  - Open thie project in Eclipse or Netbeans
@@ -64,7 +64,7 @@ customer details management and seat management.
 
 ![Image](ObjectModel.PNG)
 
-### Steps to regenrate this projects:
+### Steps to regenrate this project
 
  - Download File AashaFoodManagementEcosystem
  - Open thie project in Eclipse or Netbeans

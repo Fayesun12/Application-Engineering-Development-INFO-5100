@@ -28,6 +28,12 @@ With the increasing number of deaths due to scarcity of food each year, it is ne
 
 ![Image](UseCase.PNG)
 
+### Steps to regenrate this projects:
+
+ - Download File AashaFoodManagementEcosystem
+ - Open thie project in Eclipse or Netbeans
+ - Compile and clean build the project
+ - Run it
 
 
 # Travel Agency Flight-Booking System
@@ -57,3 +63,10 @@ customer details management and seat management.
 ### Object Model
 
 ![Image](ObjectModel.PNG)
+
+### Steps to regenrate this projects:
+
+ - Download File AashaFoodManagementEcosystem
+ - Open thie project in Eclipse or Netbeans
+ - Compile and clean build the project
+ - Run it

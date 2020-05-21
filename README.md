@@ -66,7 +66,7 @@ customer details management and seat management.
 
 ### Steps to regenrate this project
 
- - Download File AashaFoodManagementEcosystem
+ - Download File TravelAgencyFlightBookingSystem
  - Open thie project in Eclipse or Netbeans
  - Compile and clean build the project
  - Run it
